@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sakuni Samara</h1>
 <h3 align="center">Undergraduate at SLIIT</h3>
+<h3 align="center">IT21030130</h3>
 
 - 🔭 I’m currently working on [Mobile phone shop management system](https://github.com/SLIITITP/y2_s2_wd_it_01-itp_wd_b01_13)
 
