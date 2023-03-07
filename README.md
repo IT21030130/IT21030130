@@ -3,7 +3,7 @@
 <h3 align="center">Undergraduate at SLIIT</h3>
 
 
-- 🔭 I’m currently working on [Web DNS](https://github.com/Falcon-98/web-DMS)
+- 🔭 I’m currently working on [Helping Hands](https://github.com/IsuruSanjaya/No_Poverty)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
