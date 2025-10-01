@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakuni Samara</h1>
-<h1 align="center">IT21030130</h1>
-<h3 align="center">Undergraduate at SLIIT</h3>
+<h3 align="center">QA Engineer</h3>
 
 
 - 🔭 I’m currently working on [Helping Hands](https://github.com/IsuruSanjaya/No_Poverty)
